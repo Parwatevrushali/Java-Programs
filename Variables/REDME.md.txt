@@ -1,0 +1,27 @@
+# Java Programs – Variables
+
+This repository contains basic Java programs that demonstrate different concepts related to variables.
+
+## Topics Covered
+- Variable declaration and initialization
+- Local scope of variables
+- Redeclaration rules
+- Uninitialized variables
+- Variables in different blocks
+
+## Folder Structure
+Java-Programs/
+└── Variables/
+    ├── DifferentBlocks.java
+    ├── LocalScope.java
+    ├── Redeclaration.java
+    ├── Uninitialized.java
+    ├── VarDemo.java
+    └── VarDemo1.java
+
+## How to Run
+javac FileName.java
+java FileName
+
+## Author
+Vrushali Santosh Parwate
