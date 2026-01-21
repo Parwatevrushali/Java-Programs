@@ -142,6 +142,19 @@ class IncrementDecrement5 {
             System.out.println(b);
             System.out.println(c);
             System.out.println(a);
-        }
+
+		}
+
+			 
+
+
+			{
+				int a = 5;
+int b = a++ + ++a;
+System.out.println(a);
+System.out.println(b);
+			}
+
+       
     }
 }
